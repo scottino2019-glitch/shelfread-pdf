@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: 'Lora', Georgia, Cambria, 'Times New Roman', serif;
+  --font-display: 'Cinzel', 'Lora', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+}
+
+/* Natural paper reading scrollbars and subtle organic depth */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(45, 36, 28, 0.4);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(146, 117, 89, 0.5);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(146, 117, 89, 0.7);
+}
+
+/* Paper view subtle gutter shadow */
+.paper-sheet-shadow {
+  box-shadow: 
+    0 4px 6px -1px rgba(35, 25, 18, 0.08),
+    0 10px 25px -3px rgba(35, 25, 18, 0.12),
+    0 0 0 1px rgba(60, 48, 36, 0.08);
+}
+
+.book-shelf-shadow {
+  box-shadow: 
+    inset 0 4px 8px rgba(0, 0, 0, 0.35),
+    0 12px 20px -5px rgba(15, 10, 6, 0.6);
+}
+
+.book-spine-shadow {
+  box-shadow:
+    inset -4px 0 6px -2px rgba(0, 0, 0, 0.4),
+    inset 4px 0 6px -2px rgba(255, 255, 255, 0.1),
+    2px 6px 12px rgba(10, 8, 6, 0.35);
+}

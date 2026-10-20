@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Il Principe",
+    "filename": "il-principe-machiavelli.pdf",
+    "author": "Niccolò Machiavelli"
+  },
+  {
+    "title": "La Divina Commedia: Inferno",
+    "filename": "la-divina-commedia-inferno.pdf",
+    "author": "Dante Alighieri"
+  },
+  {
+    "title": "Le Avventure di Pinocchio",
+    "filename": "le-avventure-di-pinocchio.pdf",
+    "author": "Carlo Collodi"
+  },
+  {
+    "title": "Antico Erbario Officinale",
+    "filename": "antico-erbario-officinale.pdf",
+    "author": "Frate Silvestro Speziale"
+  },
+  {
+    "title": "Dialogo sopra i due massimi sistemi",
+    "filename": "dialogo-massimi-sistemi-galileo.pdf",
+    "author": "Galileo Galilei"
+  },
+  {
+    "title": "I Canti",
+    "filename": "i-canti-leopardi.pdf",
+    "author": "Giacomo Leopardi"
+  }
+]

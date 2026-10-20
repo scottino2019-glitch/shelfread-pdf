@@ -1,0 +1,6 @@
+{
+  "name": "Biblioteca & Lettore PDF",
+  "description": "Applicazione per leggere PDF da scaffali in legno, con vista documento e modalità testo naturale ad alto comfort visivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
